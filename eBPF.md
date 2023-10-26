@@ -8,3 +8,6 @@
 - Prometheus exporter for custom eBPF metrics.
 - Motivation of this exporter is to allow you to write eBPF code and export metrics that are not otherwise accessible from the Linux kernel.
 
+## Talks
+### Hello eBPF! Goobye Sidecars? - Liz Rice
+- [Youtunbe](https://www.youtube.com/watch?v=0JFd0W2CcMw)
